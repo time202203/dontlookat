@@ -1,5 +1,5 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/time202203/dontlookat?color=black"> <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/time202203/dontlookat/main"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/time202203/dontlookat">
-
+GitHub badge	/github/license/:user/:repo
 # probable-octo-journey
 bannanas
 cheesse
